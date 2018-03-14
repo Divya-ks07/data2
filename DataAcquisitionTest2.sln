@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcquisitionTest2", "DataAcquisitionTest2\DataAcquisitionTest2.csproj", "{E60BCD02-107C-484E-8AAD-E6B7B3182F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60BCD02-107C-484E-8AAD-E6B7B3182F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60BCD02-107C-484E-8AAD-E6B7B3182F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60BCD02-107C-484E-8AAD-E6B7B3182F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60BCD02-107C-484E-8AAD-E6B7B3182F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23743ED-3ED8-4751-BE67-2B6F86D24C5C}
+	EndGlobalSection
+EndGlobal
